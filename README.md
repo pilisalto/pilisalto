@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍋 Hola soy @pilisalto - Pilar Salto.<br>🌱Actualmente estoy desarrollandome en: Full Stack MERN.<br>💞️Busco colaborar en: proyectos que me ayuden a seguir aprendiendo y poniendo en práctica mis conocimientos.<br>📫Como contactarme: m.pilarsalto@gmail.com o https://www.linkedin.com/in/pilar-salto-6a5ba5182/.<br>🍇 Raspberry y Arduino ♾️ para jugar y divertirme.<br>📚 Estudiando Lic. en Informática y Lic. en Inteligencia Artificial y Robótica.
+🍋 Hola soy @pilisalto - Pilar Salto.<br>🌱Actualmente estoy desarrollandome en: Full Stack MERN.<br>🤝🏻Busco colaborar en: proyectos que me ayuden a seguir aprendiendo y poniendo en práctica mis conocimientos.<br>📫Como contactarme: m.pilarsalto@gmail.com o https://www.linkedin.com/in/pilar-salto-6a5ba5182/.<br>🍇 Raspberry y Arduino ♾️ para jugar y divertirme.<br>📚 Estudiando Lic. en Informática y Lic. en Inteligencia Artificial y Robótica.
 
 
 ## 🌐 Socials:
